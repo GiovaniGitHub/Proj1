@@ -3,3 +3,6 @@ db/
 
 # IDEs
 .vscode/
+
+#COMPILE FILES
+*.pyc

@@ -6,3 +6,6 @@ db/
 
 #COMPILE FILES
 *.pyc
+
+#TESTS OUT OF SUBMISSION
+tests.py
